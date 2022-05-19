@@ -1,0 +1,11 @@
+print('Hello World!')
+name = input('Type your name: ')
+print('Welcome, {}!'.format(name))
+
+
+
+Hello World!
+Type your name: Kamila Salkini
+Welcome, Kamila Salkini!
+
+Process finished with exit code 0
